@@ -1,12 +1,8 @@
-# Jekyll Modern Blog
+# Geo for Teachers
 
-A Simple, Clean and responsive modern blog for jekyll.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## [Live WebSite](http:/https://furuhashilab.github.io/geo4teachers)
 
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
 ## License
 
