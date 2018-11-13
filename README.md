@@ -1,7 +1,7 @@
 # Geo for Teachers
 
 
-## [Live WebSite](http:/https://furuhashilab.github.io/geo4teachers)
+## [Live WebSite](https://furuhashilab.github.io/geo4teachers)
 
 
 ## License
