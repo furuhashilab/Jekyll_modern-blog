@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Google Earth"
+subtitle: "空間情報リテラシー"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
