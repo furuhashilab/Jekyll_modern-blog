@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "Crisis Mapping"
+subtitle: "災害時に現場を支える地図作り"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2018-10-31 12:12:12
 ---
 
 ### Dolor sit amet?
