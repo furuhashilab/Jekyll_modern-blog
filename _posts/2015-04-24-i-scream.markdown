@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "DRONEBIRD"
+subtitle: "空撮ドローン活用術"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
