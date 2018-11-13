@@ -1,6 +1,6 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "OpenStreetMap"
+subtitle: "みんなで作る自由な世界地図"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
