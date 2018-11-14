@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Field Work"
+subtitle: "書を捨てよ街へ出よ"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
