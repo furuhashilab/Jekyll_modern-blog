@@ -3,8 +3,8 @@ title:  "Google Earth"
 subtitle: "空間情報リテラシー"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+image: "img/sagacam_ge_lq.jpg"
+date:   2019-01-01 12:12:12
 ---
 
 ### Dolor sit amet?
