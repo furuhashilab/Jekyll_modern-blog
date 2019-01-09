@@ -4,7 +4,7 @@ subtitle: "災害時に現場を支える地図作り"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/crisismapping_chofu_lq.jpg"
-date:   2018-10-31 12:12:12
+date:   2019-01-10 12:12:12
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_g3Ykgd0CmlCkdlB2oxqur" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
