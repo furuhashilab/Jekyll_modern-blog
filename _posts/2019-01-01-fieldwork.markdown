@@ -4,7 +4,7 @@ subtitle: "書を捨てよ、町へ出よう。"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2019-01-01 12:12:12
 ---
 
 ### Dolor sit amet?
