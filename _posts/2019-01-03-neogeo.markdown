@@ -3,7 +3,7 @@ title:  "NeoGeography, NeoCartography"
 subtitle: "新地図学のススメ"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
-image: "img/b.jpg"
+image: "img/neogeography.jpg"
 date:   2019-01-03 12:12:12
 ---
 
