@@ -4,7 +4,7 @@ subtitle: "空撮ドローン活用術"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/ebee2.jpg"
-date:   2015-04-24 12:12:12
+date:   2019-01-09 12:12:12
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxaEch3z5PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
