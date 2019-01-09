@@ -2,7 +2,7 @@
 title:  "DRONEBIRD"
 subtitle: "空撮ドローン活用術"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/ebee2.jpg"
 date:   2015-04-24 12:12:12
 ---
