@@ -3,7 +3,7 @@ title:  "OpenStreetMap"
 subtitle: "みんなで作る自由な世界地図"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
-image: "img/c.jpg"
+image: "img/openstreetmap.jpg"
 date:   2019-01-05 12:12:12
 ---
 
