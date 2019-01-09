@@ -2,9 +2,9 @@
 title:  "NeoGeography, NeoCartography"
 subtitle: "新地図学のススメ"
 author: "mapconcierge"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2019-01-03 12:12:12
 ---
 
 ### Dolor sit amet?
