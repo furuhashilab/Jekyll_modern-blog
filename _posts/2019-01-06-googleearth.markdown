@@ -4,7 +4,7 @@ subtitle: "空間情報リテラシー"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/sagacam_ge_lq.jpg"
-date:   2019-01-01 12:12:12
+date:   2019-01-06 12:12:12
 ---
 
 ### Dolor sit amet?
