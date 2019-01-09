@@ -3,7 +3,7 @@ title:  "DRONEBIRD"
 subtitle: "空撮ドローン活用術"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/ebee.jpg"
 date:   2015-04-24 12:12:12
 ---
 
