@@ -3,7 +3,7 @@ title:  "Crisis Mapping"
 subtitle: "災害時に現場を支える地図作り"
 author: "mapconcierge"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/crisismapping_chofu_lq.jpg"
 date:   2018-10-31 12:12:12
 ---
 
