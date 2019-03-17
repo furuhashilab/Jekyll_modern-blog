@@ -8,5 +8,9 @@ date:   2019-01-01 12:12:12
 ---
 
 # 古橋研究室のフィールドワークスタイル
+
+## 調布・深大寺
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95u6qxlg3N4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 観音崎(横須賀)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7_On5tGSro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
