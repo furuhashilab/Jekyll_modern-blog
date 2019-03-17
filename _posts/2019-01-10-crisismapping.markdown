@@ -16,3 +16,9 @@ date:   2019-01-10 12:12:12
 # タスキングマネージャー入門
 複数人で同時に地図を編集する際に担当エリア分けを行うタスキングマネージャーの活用方法。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sMAdXhwsK6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-tkZym5L0KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Arco-pvxf88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0ysO9cHdwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
