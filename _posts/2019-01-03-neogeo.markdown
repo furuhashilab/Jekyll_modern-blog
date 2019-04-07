@@ -15,3 +15,5 @@ date:   2019-01-03 12:12:12
 
 # GeoGeoWest 古橋＆瀬戸＋ゲストの空間情報談義
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CoK8b1FZUlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVhc5ews2SswwqbMHrTlDbWyqh8VEG0lp" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
