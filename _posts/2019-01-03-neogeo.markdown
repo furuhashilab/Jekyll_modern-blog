@@ -12,3 +12,6 @@ date:   2019-01-03 12:12:12
 
 # 空想地図講座
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNURW3L9b88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# GeoGeoWest 古橋＆瀬戸＋ゲストの空間情報談義
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CoK8b1FZUlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
