@@ -7,9 +7,11 @@ image: "img/crisismapping_chofu_lq.jpg"
 date:   2019-01-10 12:12:12
 ---
 
-# クライシスマッピング入門
+# クライシスマッピング入門（子ども向け）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hZK7m0fb1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# クライシスマッピング入門（大学生向け）
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3E9OhmUjVlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # オープンストリートマップ入門（全３回）
 災害時に迅速に地図を更新することのできるオープンストリートマップの編集方法解説。
