@@ -10,6 +10,9 @@ date:   2019-01-03 12:12:12
 # Google Maps グランドトゥルース・プロジェクト
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FsbLEtS0uls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Niantic Labs' John Hanke - "Adventures on Foot" - D.I.C.E. 2014 Summit
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lj9vBhfIGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # グラレコ講座
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_g3Ykgd0CmlCkdlB2oxqur" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
