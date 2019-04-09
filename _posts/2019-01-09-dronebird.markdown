@@ -7,6 +7,9 @@ image: "img/ebee2.jpg"
 date:   2019-01-09 12:12:12
 ---
 
+# ドローンｘ地図ｘウェブ＝新しい国際貢献のカタチ @ TEDxAGU 2018
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6fQnpVHDhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # ドローン操縦入門1（回転翼）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84RnOFfoG2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
