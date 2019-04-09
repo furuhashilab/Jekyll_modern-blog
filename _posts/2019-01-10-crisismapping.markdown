@@ -7,21 +7,20 @@ image: "img/crisismapping_chofu_lq.jpg"
 date:   2019-01-10 12:12:12
 ---
 
-# クライシスマッピング入門（子ども向け）
+### クライシスマッピング入門（子ども向け）
+2014年に子ども向けの TEDxKids@Chiyoda で発表したクライシスマッピングの紹介
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hZK7m0fb1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# クライシスマッピング入門（大学生向け）
+### クライシスマッピング入門（大学生向け）
+2015年に青山学院大学で開催したクライシスマッピングワークショップの様子。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3E9OhmUjVlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# オープンストリートマップ入門（全３回）
+### オープンストリートマップ入門（全３回）
 災害時に迅速に地図を更新することのできるオープンストリートマップの編集方法解説。
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE8p12RFIvDkKpbMCYdxxhej" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-# タスキングマネージャー入門
+### タスキングマネージャー入門
 複数人で同時に地図を編集する際に担当エリア分けを行うタスキングマネージャーの活用方法。
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_1eiQU5NE7uy-hdr7cimwa" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
