@@ -10,4 +10,6 @@ date:   2019-01-06 12:12:12
 ### Google Earth 入門1 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O-XidwKsKAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Michael T. Jones (2008) Google I/O 2008 - The World's Information in Context
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_wMv2tBzvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
