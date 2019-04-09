@@ -18,3 +18,6 @@ date:   2019-01-05 12:12:12
 
 # Tasking Manager の使い方(TaskingManagerというモノ by Ayame)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tkZym5L0KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# OSM at Facebook
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pa05L_vuLZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
