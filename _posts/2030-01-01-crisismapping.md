@@ -4,7 +4,7 @@ subtitle: "災害時に現場を支える地図作り"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/crisismapping_chofu_lq.jpg"
-date:   2020-03-10 12:12:12
+date:   2030-01-01 00:00:00
 ---
 
 ### クライシスマッピング入門（子ども向け）
