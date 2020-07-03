@@ -8,11 +8,11 @@ date:   2030-12-31 23:59:59
 ---
 
 ### クライシスマッピング入門（子ども向け）
-2014年に子ども向けの TEDxKids@Chiyoda で発表したクライシスマッピングの紹介
+<p><a href="http://tedxkidschiyoda.com/">TEDxKids@Chiyoda</a> で発表したクライシスマッピングの紹介</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hZK7m0fb1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### クライシスマッピング入門（大学生向け）
-2015年に青山学院大学で開催した TEDxAGU での Talk 「地図ｘウェブ＝新しい国際貢献のカタチ」
+<p>2015年に青山学院大学で開催した TEDxAGU での Talk 「地図ｘウェブ＝新しい国際貢献のカタチ」</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6fQnpVHDhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2015年に青山学院大学で開催したクライシスマッピングワークショップの様子。
