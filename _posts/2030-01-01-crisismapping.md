@@ -22,11 +22,16 @@ date:   2030-01-01 00:00:00
 ### タスキングマネージャー入門
 複数人で同時に地図を編集する際に担当エリア分けを行うタスキングマネージャーの活用方法。
 
-#### タスキングマネージャー ver4.0 
+#### タスキングマネージャー ver4.0
+* おすすめ動画 再生リスト
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wqQdDgjBOvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### タスキングマネージャー ver3.0 
+* おすすめ動画 再生リスト
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBgWSsp53Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* おすすめ動画 個別
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBgWSsp53Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_1eiQU5NE7uy-hdr7cimwa" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
