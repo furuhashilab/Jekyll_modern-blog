@@ -4,7 +4,7 @@ subtitle: "災害時に現場を支える地図作り"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/crisismapping_chofu_lq.jpg"
-date:   2019-01-10 12:12:12
+date:   2020-03-10 12:12:12
 ---
 
 ### クライシスマッピング入門（子ども向け）
@@ -21,6 +21,14 @@ date:   2019-01-10 12:12:12
 
 ### タスキングマネージャー入門
 複数人で同時に地図を編集する際に担当エリア分けを行うタスキングマネージャーの活用方法。
+
+#### タスキングマネージャー ver4.0 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wqQdDgjBOvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#### タスキングマネージャー ver3.0 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBgWSsp53Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_1eiQU5NE7uy-hdr7cimwa" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
