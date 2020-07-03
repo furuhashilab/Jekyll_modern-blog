@@ -4,7 +4,7 @@ subtitle: "災害時に現場を支える地図作り"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
 image: "img/crisismapping_chofu_lq.jpg"
-date:   2020-03-31 00:00:00
+date:   2030-12-31 23:59:59
 ---
 
 ### クライシスマッピング入門（子ども向け）
@@ -12,6 +12,9 @@ date:   2020-03-31 00:00:00
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hZK7m0fb1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### クライシスマッピング入門（大学生向け）
+2015年に青山学院大学で開催した TEDxAGU での Talk 「地図ｘウェブ＝新しい国際貢献のカタチ」
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6fQnpVHDhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2015年に青山学院大学で開催したクライシスマッピングワークショップの様子。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3E9OhmUjVlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
