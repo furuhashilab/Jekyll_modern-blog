@@ -32,7 +32,7 @@ date:   2030-12-31 23:59:59
 
 #### タスキングマネージャー ver3.0 
 * おすすめ解説動画2020 再生リスト
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBgWSsp53Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE-cwWF9S23Mi4PU-iikNuP5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * おすすめ解説動画2019 再生リスト
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtNZ0UPlDLE_1eiQU5NE7uy-hdr7cimwa" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
